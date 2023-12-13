@@ -6,6 +6,18 @@
   </a>
 </p>
 
+## API endpoint
+
+https://o4gzkfdy7j.execute-api.us-east-1.amazonaws.com/dev/countWords
+
+**Request body example**:
+
+{
+
+"text": "Hello, WORLD! This is a test. Cats, dogs, and birds: three types of pets. Running, swimming, JUMPING!"
+
+}
+
 ## Project description
 
 ### Overview
